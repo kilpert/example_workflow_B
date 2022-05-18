@@ -1,0 +1,4 @@
+.snakemake/
+example_workflow_A/
+results/
+
